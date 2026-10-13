@@ -1,0 +1,9 @@
+.git
+*.ipynb
+*.csv
+IMG/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pem
